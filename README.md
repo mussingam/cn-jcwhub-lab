@@ -1,2 +1,14 @@
 # cn-jcwhub-lab
-HTML page archive and documentation
+
+静态页面记录中心
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 文件组成
+
+- `.html` 文件为独立页面
+- `README.md` 为仓库基础说明
+
+## 使用说明
+
+如需查看页面内容，请打开对应的 HTML 文件或 Pages 地址。
